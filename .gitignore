@@ -5,6 +5,7 @@ __pycache__/
 dist/
 build/
 .pytest_cache/
+temp_auto_push.bat
 .ruff_cache/
 .venv/
 venv/
@@ -13,3 +14,5 @@ venv/
 mlruns/
 *.db
 examples/artifacts/mlflow.db
+.gitignore
+branch_structure.json
